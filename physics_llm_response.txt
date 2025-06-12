@@ -1,0 +1,161 @@
+# Physics Concepts Analysis
+
+## Question 1
+**Question:** "If the sizes of charged bodies are very small compared to the distances between them, we treat them as ____________."
+
+**Concepts:**
+- Electrostatics
+- Point Charge Approximation
+- Electric Field Theory
+
+## Question 2
+**Question:** "What is the dielectric constant of a metal?"
+
+**Concepts:**
+- Dielectric Properties
+- Electrical Conductivity of Metals
+- Electric Field in Conductors
+
+## Question 3
+**Question:** "————— gives the information on field strength, direction, and nature of the charge."
+
+**Concepts:**
+- Electric Field
+- Vector Fields in Physics
+- Electrostatic Field Properties
+
+## Question 4
+**Question:** "The work done in moving a unit positive test charge over a closed path in an electric field is _____________."
+
+**Concepts:**
+- Conservative Forces
+- Electric Potential
+- Work-Energy Theorem in Electrostatics
+
+## Question 5
+**Question:** "What happens when a glass rod is rubbed with silk?"
+
+**Concepts:**
+- Triboelectric Effect
+- Static Electricity
+- Electron Transfer in Materials
+
+## Question 6
+**Question:** "What is the formula to find the work done in rotating the dipole in a uniform magnetic field from θ1 to θ2?"
+
+**Concepts:**
+- Magnetic Dipole
+- Work Done in Magnetic Fields
+- Torque on Magnetic Dipoles
+
+## Question 7
+**Question:** "The magnetic dipole moment of a magnetic dipole is given by the formula ________."
+
+**Concepts:**
+- Magnetic Dipole Moment
+- Current Loops and Magnetism
+- Magnetic Properties of Materials
+
+## Question 8
+**Question:** "A freely suspended magnet aligns in which direction?"
+
+**Concepts:**
+- Earth's Magnetic Field
+- Magnetic Compass Behavior
+- Geomagnetic Properties
+
+## Question 9
+**Question:** "The power factor is one for which of the following?"
+
+**Concepts:**
+- AC Circuit Analysis
+- Power Factor in Electrical Circuits
+- Resistive, Inductive, and Capacitive Loads
+
+## Question 10
+**Question:** "Which of the following statements is true about the LCR circuit connected to an AC source at resonance?"
+
+**Concepts:**
+- AC Circuit Resonance
+- LCR Circuit Analysis
+- Impedance and Reactance
+
+## Question 11
+**Question:** "How can the fringe width increase in Young's double-slit experiment?"
+
+**Concepts:**
+- Wave Interference
+- Young's Double-Slit Experiment
+- Fringe Pattern Analysis
+
+## Question 12
+**Question:** "Which of the following light phenomena confirms the transverse nature of light?"
+
+**Concepts:**
+- Wave Nature of Light
+- Light Polarization
+- Transverse Wave Properties
+
+## Question 13
+**Question:** "Polaroid glasses are used in sunglasses because"
+
+**Concepts:**
+- Light Polarization
+- Applications of Polarized Light
+- Optical Filters
+
+## Question 14
+**Question:** "Which of the following does the wave theory of light not explain?"
+
+**Concepts:**
+- Wave-Particle Duality of Light
+- Photoelectric Effect
+- Limitations of Classical Wave Theory
+
+## Question 15
+**Question:** "Which of the following is conserved when light waves interfere?"
+
+**Concepts:**
+- Wave Interference
+- Conservation Laws in Wave Physics
+- Energy Conservation in Optics
+
+## Question 16
+**Question:** "What is the geometric shape of the wavefront that originates when a plane wave passes through a convex lens?"
+
+**Concepts:**
+- Wave Optics
+- Lens Optics
+- Wavefront Analysis
+
+## Question 17
+**Question:** "A radioactive nucleus emits a beta particle, then the parent and daughter nuclei are"
+
+**Concepts:**
+- Radioactive Decay
+- Beta Decay Process
+- Nuclear Physics Classifications (Isotopes, Isotones, Isobars)
+
+## Question 18
+**Question:** "A nucleus undergoes gamma decay due to"
+
+**Concepts:**
+- Gamma Decay
+- Nuclear Excited States
+- Nuclear Energy Levels
+
+## Question 19
+**Question:** "Isotones have the same number of"
+
+**Concepts:**
+- Nuclear Physics
+- Isotones Definition
+- Nuclear Structure
+
+## Question 20
+**Question:** "What is the phase difference between electric and magnetic fields in an electromagnetic wave?"
+
+**Concepts:**
+- Electromagnetic Waves
+- Electric and Magnetic Field Relationship
+- Wave Phase Analysis
