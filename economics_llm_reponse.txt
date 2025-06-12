@@ -1,0 +1,169 @@
+# Economic Concepts Analysis
+
+## Question 1
+**Question:** Consider the following statements about US debt default and Treasury Bonds backing.
+**Concepts:**
+- Sovereign Debt Default
+- Government Bond Securities
+- Fiat Currency System
+- Credit Risk in Government Securities
+
+## Question 2
+**Question:** Consider the following statements about syndicated lending and loan structures.
+**Concepts:**
+- Syndicated Lending
+- Credit Risk Distribution
+- Loan Structuring and Types
+- Banking Consortium Financing
+
+## Question 3
+**Question:** Consider the following statements in respect of the digital rupee.
+**Concepts:**
+- Central Bank Digital Currency (CBDC)
+- Digital Rupee
+- Monetary Policy Implementation
+- RBI Balance Sheet Management
+
+## Question 4
+**Question:** With reference to the Digital India Land Records Modernisation Programme.
+**Concepts:**
+- Digital India Initiative
+- Land Records Modernization
+- Cadastral Mapping
+- Government Digitization Programs
+
+## Question 5
+**Question:** Consider the following statements about NBFCs, FIIs, and Stock Exchanges.
+**Concepts:**
+- Non-Banking Financial Companies (NBFCs)
+- Liquidity Adjustment Facility (LAF)
+- Foreign Institutional Investors (FIIs)
+- Debt Trading Platforms
+
+## Question 6
+**Question:** In India, which of the following can trade in Corporate Bonds and Government Securities?
+**Concepts:**
+- Corporate Bond Markets
+- Government Securities Trading
+- Institutional Investors
+- Financial Market Participants
+
+## Question 7
+**Question:** Consider Exchange-Traded Funds, Motor vehicles, Currency swap as financial instruments.
+**Concepts:**
+- Financial Instruments Classification
+- Exchange-Traded Funds (ETFs)
+- Currency Derivatives
+- Asset Classification
+
+## Question 8
+**Question:** With reference to the sectors of the Indian economy, consider sector classifications.
+**Concepts:**
+- Economic Sector Classification
+- Primary, Secondary, Tertiary Sectors
+- Economic Activity Categorization
+- Sectoral Analysis
+
+## Question 9
+**Question:** With reference to physical capital in Indian economy, consider capital classifications.
+**Concepts:**
+- Physical Capital Classification
+- Fixed Capital vs Working Capital
+- Capital Goods in Production
+- Economic Resource Categorization
+
+## Question 10
+**Question:** With reference to RBI rules for foreign banks in India.
+**Concepts:**
+- Foreign Bank Regulations
+- Banking Subsidiary Requirements
+- RBI Prudential Norms
+- International Banking Operations
+
+## Question 11
+**Question:** With reference to Corporate Social Responsibility (CSR) rules in India.
+**Concepts:**
+- Corporate Social Responsibility (CSR)
+- CSR Compliance Framework
+- Corporate Governance
+- Mandatory CSR Spending
+
+## Question 12
+**Question:** "Collateral Borrowing and Lending Obligations" are instruments of which market?
+**Concepts:**
+- Money Market Instruments
+- Collateral Borrowing and Lending Obligations (CBLO)
+- Short-term Financing
+- Repo Market Operations
+
+## Question 13
+**Question:** Consider statements about Infrastructure Investment Trusts (InvITs).
+**Concepts:**
+- Infrastructure Investment Trusts (InvITs)
+- Tax Treatment of Investment Trusts
+- SARFAESI Act
+- Infrastructure Financing
+
+## Question 14
+**Question:** Consider statements about Central Banks' interest rate hikes post-pandemic.
+**Concepts:**
+- Monetary Policy Transmission
+- Interest Rate Policy
+- Inflation Control Mechanisms
+- Central Bank Operations
+
+## Question 15
+**Question:** Which RBI activity is considered part of 'sterilization'?
+**Concepts:**
+- Sterilization Operations
+- Open Market Operations
+- Monetary Policy Tools
+- Liquidity Management
+
+## Question 16
+**Question:** Consider markets and their classification in capital markets.
+**Concepts:**
+- Capital Markets vs Money Markets
+- Financial Market Classification
+- Government Securities Market
+- Stock Market Operations
+
+## Question 17
+**Question:** Which best describes the concept of 'Small Farmer Large Field'?
+**Concepts:**
+- Agricultural Cooperation
+- Farmer Producer Organizations
+- Collective Farming
+- Agricultural Scaling Models
+
+## Question 18
+**Question:** Consider statements about niger seeds cultivation and support.
+**Concepts:**
+- Minimum Support Price (MSP)
+- Kharif Crop Classification
+- Oilseed Cultivation
+- Tribal Agricultural Practices
+
+## Question 19
+**Question:** Consider investments in various assets and their classification.
+**Concepts:**
+- Intangible Assets
+- Intellectual Property
+- Brand Valuation
+- Asset Classification in Economics
+
+## Question 20
+**Question:** Consider statements about India's global export share and Production-linked Incentive scheme.
+**Concepts:**
+- Global Trade Statistics
+- Production-Linked Incentive (PLI) Scheme
+- Export Performance Analysis
+- Industrial Policy Measures
+
+## Question 21
+**Question:** Consider statements about MSME classification and priority sector lending.
+**Concepts:**
+- Micro, Small and Medium Enterprises (MSME)
+- MSMED Act 2006
+- Priority Sector Lending
+- MSME Classification Criteria
